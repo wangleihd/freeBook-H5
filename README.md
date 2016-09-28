@@ -241,3 +241,4 @@
 # 参考文献
 
 * [github免费的编程中文书籍索引](https://github.com/justjavac/free-programming-books-zh_CN)
+* [Freely available programming books 中文](https://github.com/vhf/free-programming-books/blob/master/free-programming-books-zh.md)
