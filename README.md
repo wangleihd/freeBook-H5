@@ -172,7 +172,7 @@
     * [Angular-Meteor 中文教程](http://angular.meteorhub.org/)
     
 * 图表库
-    * [Chart.js中文文档](http://www.bootcss.com/p/chart.js/docs/
+    * [Chart.js中文文档](http://www.bootcss.com/p/chart.js/docs/)
     * [D3.js入门](http://www.jianshu.com/p/c3800c61d2fb)
     
 * Bootstrap 框架
