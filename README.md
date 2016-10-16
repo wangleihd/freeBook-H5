@@ -170,7 +170,14 @@
     * [Discover Meteor](http://zh.discovermeteor.com/)
     * [Meteor 中文文档](http://docs.meteorhub.org/#/basic/)
     * [Angular-Meteor 中文教程](http://angular.meteorhub.org/)
-
+    
+* 图表库
+    * [Chart.js中文文档](http://www.bootcss.com/p/chart.js/docs/
+    * [D3.js入门](http://www.jianshu.com/p/c3800c61d2fb)
+    
+* Bootstrap 框架
+    * [Bootstrap中文文档](http://www.bootcss.com/)
+    
 ## 技术知识
 
 * [关于浏览器和网络的 20 项须知](http://www.20thingsilearned.com/zh-CN/home)
