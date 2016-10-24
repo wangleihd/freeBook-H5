@@ -176,7 +176,7 @@
     * [D3.js入门](http://www.jianshu.com/p/c3800c61d2fb)
     
 * Bootstrap 框架
-    * [Bootstrap中文文档](http://www.bootcss.com/)
+    * [Bootstrap中文文档](http://bootstrap.css88.com/)
     
 ## 技术知识
 
