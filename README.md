@@ -244,6 +244,24 @@
 * [leetcode/lintcode题解/算法学习笔记](https://www.gitbook.com/book/yuanbin/algorithm/details)
 * [前端开发笔记本](https://github.com/li-xinyang/FEND_Note)
 
+### C&#35;
+
+* [MSDN C# 中文文档](https://msdn.microsoft.com/zh-cn/library/kx37x362.aspx)
+* [.NET 类库参考](https://msdn.microsoft.com/zh-cn/library/gg145045.aspx)
+* [ASP.NET MVC 5 入门指南](http://www.cnblogs.com/powertoolsteam/p/aspnetmvc5-tutorials-grapecity.html)
+* [超全面的 .NET GDI+ 图形图像编程教程](http://www.cnblogs.com/LonelyShadow/p/4162318.html)
+* [.NET控件开发基础](https://github.com/JackWangCUMT/customcontrol)
+* [.NET开发要点精讲（初稿）](https://github.com/sherlockchou86/-free-ebook-.NET-)
+
+
+
+### Lua
+
+* [Lua编程入门](https://github.com/andycai/luaprimer)
+* [Lua 5.1 参考手册 中文翻译](http://www.codingnow.com/2000/download/lua_manual.html)
+* [Lua 5.3 参考手册 中文翻译](http://cloudwu.github.io/lua53doc/)
+* [Lua源码欣赏](http://www.codingnow.com/temp/readinglua.pdf)
+
 
 
 # 参考文献
